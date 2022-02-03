@@ -1,0 +1,22 @@
+}
+print{"How to code dummies editon"}
+    if search_engine_varible = 1
+        display{search_result}
+    if search_engine_varible = 0
+        print{"wait this aint the goglle"}     
+    if search_engine_varible > 1
+        print{"this will never happen"}
+    else
+        teminate {yo_whaddup.exe}
+        /** i mean if you get this varible set to a negative thats on you lamooooo*/
+        
+     if understand_coding = false
+         print{"lol I have no idea how to code, I just opened this repository by accident and don't know how to close it. I might do something with this one day, like make a little game or visualizer, but for now this repository will remain scilent."}
+     if understand_coding = true
+         print{"yeah buddy you wish"}
+     else
+         ternimate {yo_whaddup.exe)
+     }
+}
+
+/** I really feel like I could code if I just took time to actually learn it. One day */
