@@ -1,3 +1,3 @@
-hey chat should I put something funny here or not?
+i wanna put a cool gif here, maybe when i actually use this account i will
 
-guys please stop saying 'no' your hurting me feelin '^'
+s
